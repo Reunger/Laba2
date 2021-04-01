@@ -1,0 +1,15 @@
+C:\Users\Михаил\Desktop\5_6_laba_3_sem-master\5_6_laba_sem\bin\Debug\5_6_laba_sem.exe.config
+C:\Users\Михаил\Desktop\5_6_laba_3_sem-master\5_6_laba_sem\bin\Debug\5_6_laba_sem.exe
+C:\Users\Михаил\Desktop\5_6_laba_3_sem-master\5_6_laba_sem\bin\Debug\5_6_laba_sem.pdb
+C:\Users\Михаил\Desktop\5_6_laba_3_sem-master\5_6_laba_sem\obj\Debug\5_6_laba_sem.csprojAssemblyReference.cache
+C:\Users\Михаил\Desktop\5_6_laba_3_sem-master\5_6_laba_sem\obj\Debug\MainWindow.g.cs
+C:\Users\Михаил\Desktop\5_6_laba_3_sem-master\5_6_laba_sem\obj\Debug\App.g.cs
+C:\Users\Михаил\Desktop\5_6_laba_3_sem-master\5_6_laba_sem\obj\Debug\5_6_laba_sem_MarkupCompile.cache
+C:\Users\Михаил\Desktop\5_6_laba_3_sem-master\5_6_laba_sem\obj\Debug\5_6_laba_sem_MarkupCompile.lref
+C:\Users\Михаил\Desktop\5_6_laba_3_sem-master\5_6_laba_sem\obj\Debug\MainWindow.baml
+C:\Users\Михаил\Desktop\5_6_laba_3_sem-master\5_6_laba_sem\obj\Debug\5_6_laba_sem.g.resources
+C:\Users\Михаил\Desktop\5_6_laba_3_sem-master\5_6_laba_sem\obj\Debug\_5_6_laba_sem.Properties.Resources.resources
+C:\Users\Михаил\Desktop\5_6_laba_3_sem-master\5_6_laba_sem\obj\Debug\5_6_laba_sem.csproj.GenerateResource.cache
+C:\Users\Михаил\Desktop\5_6_laba_3_sem-master\5_6_laba_sem\obj\Debug\5_6_laba_sem.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\5_6_laba_3_sem-master\5_6_laba_sem\obj\Debug\5_6_laba_sem.exe
+C:\Users\Михаил\Desktop\5_6_laba_3_sem-master\5_6_laba_sem\obj\Debug\5_6_laba_sem.pdb
